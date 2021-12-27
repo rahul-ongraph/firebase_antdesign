@@ -1,0 +1,16 @@
+@import 'antd/dist/antd.css';
+.blue_btn {
+    height:40px;
+    width:100%;
+    padding: 0 20px;
+    background-color: #3d34eb;
+    margin:20px 0px
+  }
+
+  .api_btn {
+    height:40px;
+    width:40%;
+    padding: 0 20px;
+    background-color: green;
+    margin:20px 0px
+  }

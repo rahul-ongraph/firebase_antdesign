@@ -1,0 +1,37 @@
+@import 'antd/dist/antd.css';
+body {
+    background-color: #3d34eb;
+  }
+  /* .main {
+    background-color: white; 
+    padding: 0px; 
+  } */
+  .main {
+    height: 100%;
+    margin: 0 auto;
+    background-color: #3d34eb;
+    padding: 40px;
+  }
+.loginBox {
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 40px;
+  }
+  .login {
+    text-align: center;
+    padding: 10px 0px;
+  }
+  .checkBox {
+    margin: 15px 0px;
+    font-weight: bold;
+  }
+  .forgot {
+      display: flex;
+      justify-content: space-between;
+  }
+  .signup_link {
+    margin-top:0px !important;
+    padding-top: 0px !important;
+  }

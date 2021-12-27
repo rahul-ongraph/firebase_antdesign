@@ -1,0 +1,66 @@
+@import 'antd/dist/antd.css';
+body {
+    background-color: white;
+  }
+  .ant-layout-sider {
+    flex: 0 0 82px !important;
+    min-width: 30px !important;
+    width: 30px !important;
+    background-color: white;
+  }
+  .header {
+    width: 100%;
+    background-color: #3f51b5;
+    min-height: 64px;
+    padding: 0 20px;
+    display: flex;
+  }
+.menu_icon {
+    font-size: 20px;
+    margin: 20px 30px;
+    width: 60px;
+    cursor: pointer;
+  }
+  .serachbar {
+    padding: 10px 70px;
+  }
+  .input {
+    width: 40%;
+  }
+.content {
+    background-color: white;
+    display: flex;
+}
+.first {
+    background-color: white;
+    width:30%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    
+}
+.site-statistic-demo-card {
+    padding: 30px;
+    background: #ececec;
+  }
+.contentStyle {
+    height:160px;
+    color: #fff;
+    line-height:160px;
+    text-align: center;
+    background-color: #364d79;
+}
+
+.second {
+    background-color: white;
+    width: 60%;
+}
+.footer {
+    background-color: rgb(13, 13, 14);
+    padding:0px !important;
+}
+.footer_text {
+   color: white;
+}
